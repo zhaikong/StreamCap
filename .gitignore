@@ -133,9 +133,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
-.vscode/
 env/
 venv/
 ENV/
@@ -177,3 +175,5 @@ backup_config/
 ffmpeg.exe
 ffplay.exe
 ffprobe.exe
+config.bat
+node_modules
